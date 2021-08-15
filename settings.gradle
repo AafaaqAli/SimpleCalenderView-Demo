@@ -1,0 +1,3 @@
+include ':calenderview'
+include ':app'
+rootProject.name = "demo"
